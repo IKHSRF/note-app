@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1048594436711",
+    "project_id": "notes-app-fluttera",
+    "storage_bucket": "notes-app-fluttera.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048594436711:android:5bb0386b8fcd9e16143ac2",
+        "android_client_info": {
+          "package_name": "com.example.joke_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048594436711-gh9oiodkslirjutdv8sut3pgafrosgbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJQvMIGLf8ei1wAwdSCJ-0UXoic1WsMjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048594436711-gh9oiodkslirjutdv8sut3pgafrosgbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
